@@ -28,7 +28,7 @@ ZiChenStudio & ZiChen Official Team
 
 ### LICENSE
 
-因为源代码过于简单，我们使用 The Unlicense。
+因为源代码过于简单，我们使用 [The Unlicense](/LICENSE)。
 
 ```
 This is free and unencumbered software released into the public domain.
