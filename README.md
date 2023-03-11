@@ -4,13 +4,13 @@
 
 为[zichenstudioweb](https://github.com/ZiChenStudio/zichenstudioweb)的开发和访问提供方便
 
-我们会自动跳转到[https://zcsdev.netlify.app/](https://zcsdev.netlify.app/)的界面
+我们会自动跳转到[https://zichenstudio.netlify.app/](https://zichenstudio.netlify.app/)的界面
 
 即使是子界面也会跳转。
 
 ### 使用
 
-访问[https://zcsdev.netlify.app](https://zcsdev.netlify.app)即可。也可以访问对应的子界面，例如[https://zichenstudio.netlify.app/html/all.html](https://zichenstudio.netlify.app/html/all.html)
+访问[https://zcsdev.netlify.app](https://zcsdev.netlify.app)即可。也可以访问对应的子界面，例如[https://zcsdev.netlify.app/html/all.html](https://zcsdev.netlify.app/html/all.html)
 
 ### 开发者
 
